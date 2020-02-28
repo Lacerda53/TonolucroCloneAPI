@@ -1,0 +1,16 @@
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\appsettings.json
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\TonolucroAPI.deps.json
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\TonolucroAPI.runtimeconfig.json
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\TonolucroAPI.runtimeconfig.dev.json
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\TonolucroAPI.dll
+C:\Dev\TonolucroAPI\TonolucroAPI\bin\Release\netcoreapp2.1\TonolucroAPI.pdb
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.csprojAssemblyReference.cache
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.RazorAssemblyInfo.cache
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.RazorAssemblyInfo.cs
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.AssemblyInfoInputs.cache
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.AssemblyInfo.cs
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.RazorTargetAssemblyInfo.cache
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.dll
+C:\Dev\TonolucroAPI\TonolucroAPI\obj\Release\netcoreapp2.1\TonolucroAPI.pdb
